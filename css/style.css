@@ -1,0 +1,48 @@
+div {
+  background-color: white;
+  padding: 3px 3px;
+  border-radius: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  -o-border-radius: 9px;
+}
+
+.hitung {
+  background-color: rgb(0, 174, 255);
+  color: white;
+  border: 1px solid black;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
+
+.form-group {
+  border: 1px solid black;
+  width: 300px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.button-group {
+  position: absolute;
+  right: 25px;
+}
+
+body {
+  background-image: linear-gradient(
+    140deg,
+    #0729c4 0%,
+    #18b4fc 50%,
+    #0025cc 75%
+  );
+}
